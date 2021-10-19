@@ -1,6 +1,6 @@
 import pytest
 
-from myInject import Injection as INJ
+from  bch_inject import Injection as INJ
 
 def add(x,y): return x+y
 def sub(x,y): return x-y
